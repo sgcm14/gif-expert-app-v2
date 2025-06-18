@@ -4,15 +4,15 @@ Gif Expert App
 > En este proyecto se usó React
 
 Así se muestra el aplicativo en su estado **Inicial**:
-![](https://raw.githubusercontent.com/sgcm14/gif-expert-app-v2/blob/main/src/images/Captura1.png)
+![](https://raw.githubusercontent.com/sgcm14/gif-expert-app-v2/refs/heads/main/src/images/Captura1.png)
 > Pantalla de estado **Inicial**
 
 Escribes la palabra que deseas buscar
-![](https://raw.githubusercontent.com/sgcm14/gif-expert-app-v2/blob/main/src/images/Captura2.png)
+![](https://raw.githubusercontent.com/sgcm14/gif-expert-app-v2/refs/heads/main/src/images/Captura2.png)
 >  Pantalla de **Búsqueda**
 
 Al dar enter te muestra el resultado de tu búsqueda
-![](https://raw.githubusercontent.com/sgcm14/gif-expert-app-v2/blob/main/src/images/Captura3.png)
+![](https://raw.githubusercontent.com/sgcm14/gif-expert-app-v2/refs/heads/main/src/images/Captura3.png)
 >  Pantalla con **resultado de búsqueda**
 
 
